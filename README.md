@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project is forked from GeekyAnts [NativeBase Next.js template](https://docs.nativebase.io/install-next), with expo android and ios mobile app support.
+This is a [Next.js](https://nextjs.org/) project, forked from GeekyAnts [NativeBase Next.js template](https://docs.nativebase.io/install-next), with expo android and ios mobile app support.
 ```bash
 yarn create next-app -e  https://github.com/zlwu/nextjs-with-native-base-expo-typescript/tree/main
 ```
