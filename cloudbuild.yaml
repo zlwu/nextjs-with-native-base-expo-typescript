@@ -17,3 +17,4 @@ steps:
     args: ['run', 'deploy', 'nextjs-with-native-base-expo-typescript', '--image', 'gcr.io/$PROJECT_ID/nextjs-with-native-base-expo-typescript/nextjs-with-nb-expo-ts-image:$COMMIT_SHA', '--region', 'us-west1', '--port', '3000', '--allow-unauthenticated']
 images:
   - gcr.io/$PROJECT_ID/nextjs-with-native-base-expo-typescript/nextjs-with-nb-expo-ts-image:$COMMIT_SHA
+logging: CLOUD_LOGGING_ONLY
