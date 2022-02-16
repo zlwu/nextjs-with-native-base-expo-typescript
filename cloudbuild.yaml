@@ -19,3 +19,4 @@ images:
   - gcr.io/$PROJECT_ID/nextjs-with-native-base-expo-typescript/nextjs-with-nb-expo-ts-image:$COMMIT_SHA
 options:
   logging: CLOUD_LOGGING_ONLY
+timeout: 1800s
