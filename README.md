@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project, forked from GeekyAnts [NativeBase Next.js template](https://docs.nativebase.io/install-next), with expo android and ios mobile app support.
+
 ```bash
 yarn create next-app -e  https://github.com/zlwu/nextjs-with-native-base-expo-typescript/tree/main
 ```
@@ -33,7 +34,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-Or click the button below, authorize the script, and select the project and region when prompted:
-
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/zlwu/nextjs-with-native-base-expo-typescript.git&dir=/)
