@@ -9,7 +9,6 @@ import {
   Image,
   HStack,
   Text,
-  Heading,
   Code,
   Link,
   VStack,
@@ -42,7 +41,7 @@ export default function App() {
             resizeMode="contain"
           />
         </HStack>
-        <Heading>Welcome to NativeBase</Heading>
+        <Text bold>Welcome to NativeBase</Text>
         <Text>
           Edit <Code>src/pages/index.js</Code> and save to reload.
         </Text>
