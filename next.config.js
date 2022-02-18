@@ -10,7 +10,11 @@ const withTM = require("next-transpile-modules")([
   "native-base",
 ]);
 
-const nextConfig = {};
+const nextConfig = {
+  experimental: {
+    outputStandalone: true
+  }
+};
 
 module.exports = withPlugins(
   [
